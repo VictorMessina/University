@@ -5,7 +5,7 @@
  */
 /**
  *
- * @author Victor Messina TIA: 31449530 / Rhenan Cocev TIA: 31418211
+ * @author Victor Messina
  */
 public class UnderGraduateStudent extends Student{
     private String major;
