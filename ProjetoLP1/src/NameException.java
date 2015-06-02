@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Victor Messina TIA: 31449530 / Rhenan Cocev TIA: 31418211
+ * @author Victor Messina
  */
 class NameException extends Exception {
     private String name;
