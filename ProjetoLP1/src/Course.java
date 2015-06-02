@@ -8,7 +8,7 @@ import java.util.Objects;
  */
 /**
  *
- * @author Victor Messina TIA: 31449530 / Rhenan Cocev TIA: 31418211
+ * @author Victor Messina
  */
 public class Course {
     private String code;
